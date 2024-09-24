@@ -1,0 +1,6 @@
+db:
+  user: root
+  password: '17630360038'
+  host: '192.168.124.26'
+  port: 3306
+  database: zttest
